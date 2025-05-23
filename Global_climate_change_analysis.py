@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the dataset
-df = pd.read_csv("C:/Users/hp/Downloads/global_temp.csv")
+df = pd.read_csv("global_temp.csv")
 print(df.head())
 print(df.shape)
 #info
